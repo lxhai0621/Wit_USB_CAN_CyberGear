@@ -1,2 +1,2 @@
 # Wit_USB_CAN_CyberGear
-使用维特智能USB转CAN驱动小米CyberGear电机
+使用维特智能USB转CAN模块驱动小米CyberGear电机的python库
