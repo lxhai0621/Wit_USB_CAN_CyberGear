@@ -1,2 +1,2 @@
-# lxhai0621-Wit_USB_CAN_CyberGear
+# Wit_USB_CAN_CyberGear
 使用维特智能USB转CAN驱动小米CyberGear电机
